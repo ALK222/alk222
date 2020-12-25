@@ -4,19 +4,22 @@
 
 <!-- future portfolio here -->
 
-I'm a student interested in AI, videogame development and, at a lesser extend, everything about computers, hardware and software development.
+I'm a student interested in AI, video game development and, at a lesser extent, everything about computers, hardware and software development.
 
 - 🔭 I’m currently studying computer engineering on the UCM
 
 ### Languages and Tools:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://mariadb.org/wp-content/themes/twentynineteen-child/icons/mariadb_org_rgb_h.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<!-- badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+
+<code>![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</code>
+<code>![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)</code>
+<code>![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)</code>
+<code>![mariadb](https://img.shields.io/badge/Mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)</code>
+<code>![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</code>
+<code>![latex](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)</code>
+<code>![vsCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)</code>
+<code>![vsCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white)</code>
 
 ### My stats
 
