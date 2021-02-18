@@ -23,6 +23,7 @@ Yeah this looks kind of empty.
 
 ## Skills
 
+<!-- Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <img align="right" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" />
