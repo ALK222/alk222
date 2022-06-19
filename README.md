@@ -14,7 +14,6 @@ I'm a student interested in AI, video game development and, at a lesser extent, 
 ## Education
 
 - 📖 **Computer Engineering**\
-  📆 2018 - now\
   🧭 **Universidad Complutense de Madrid** - Madrid, Spain
 
 ## Experience
