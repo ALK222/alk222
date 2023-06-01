@@ -40,6 +40,7 @@ Yeah this looks kind of empty.
 <img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Pop!_OS-48B9C7?logo=Pop!_OS&logoColor=white" />
+  
 **Operating Systems**
 
 </details>
