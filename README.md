@@ -4,10 +4,12 @@
 
 I'm a student interested in AI, video game development and, at a lesser extent, everything about computers, hardware and software development.
 
-<p align="center">
-  <img width=60% src="https://github-readme-stats.vercel.app/api?username=alk222&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
-</p>
+  [![Alex Barrachina's GitHub stats](https://github-readme-stats.vercel.app/api?username=alk222&theme=dracula&include_all_commits=true&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alk222&theme=dracula&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ALK222&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
 <details>
   <summary>📃 My Resume</summary>
 
