@@ -4,10 +4,11 @@
 
 I'm a student interested in AI, video game development and, at a lesser extent, everything about computers, hardware and software development.
 
-  [![Alex Barrachina's GitHub stats](https://github-readme-stats.vercel.app/api?username=alk222&theme=dracula&include_all_commits=true&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=alk222&theme=dracula&include_all_commits=true&count_private=true&hide_title=true" alt="Commit Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alk222&theme=dracula&layout=compact" alt="Language Stats" />
+</p>
 
-
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alk222&theme=dracula&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ALK222&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
 <details>
@@ -39,6 +40,14 @@ Yeah this looks kind of empty.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse,git,github,idea,spring,visualstudio,vscode&perline=4" />
   </a>
+</p>
+
+<p align="center"> <b>Databasess</b></p>
+<!-- Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<p align="center">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 </p>
 
 <p align="center"> <b>Operating systems</b></p>
