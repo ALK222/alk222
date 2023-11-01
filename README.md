@@ -24,25 +24,29 @@ Yeah this looks kind of empty.
 
 ## Skills
 
+<!-- Icons: https://github.com/tandpfun/skill-icons -->
+<p align="center"> <b>Programming languages(and other "programming" stuff) </b></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,haskell,java,latex,py,ruby&perline=4" />
+  </a>
+</p>
+
+<p align="center"> <b>Tools </b></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=eclipse,git,github,idea,spring,visualstudio,vscode&perline=4" />
+  </a>
+</p>
+
+<p align="center"> <b>Operating systems</b></p>
 <!-- Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-<img align="right" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Mariadb-003545?logo=mariadb&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white" />
-
-**Programming(and other "programming" stuff)**
-
-<img align="right" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=Visual-Studio-Code&logoColor=white">
-<img align="right" src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=Visual-Studio&logoColor=white">
-
-**Tools**
-
-<img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Pop!_OS-48B9C7?logo=Pop!_OS&logoColor=white" />
-  
-**Operating Systems**
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
+</p>
 
 </details>
