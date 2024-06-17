@@ -17,11 +17,13 @@ I'm a student interested in AI, video game development and, at a lesser extent, 
 ## Education
 
 - 📖 **Computer Engineering**\
-  🧭 **Universidad Complutense de Madrid** - Madrid, Spain
+  🏛️ **Universidad Complutense de Madrid**
 
 ## Experience
 
-Yeah this looks kind of empty.
+- 🖥️ **AI & Data Analytics (Internship)**\
+  🧭 June 2024 - now \
+  🏛️ **Capemini Spain**
 
 ## Skills
 
