@@ -6,7 +6,7 @@ I'm a student interested in AI, video game development and, at a lesser extent, 
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=alk222&theme=dracula&include_all_commits=true&count_private=true&hide_title=true" alt="Commit Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alk222&theme=dracula&layout=compact" alt="Language Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alk222&theme=dracula&hide=jupyter-notebook&layout=compact" alt="Language Stats" />
 </p>
 
 
