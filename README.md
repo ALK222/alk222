@@ -22,7 +22,7 @@ I'm a student interested in AI, video game development and, at a lesser extent, 
 ## Experience
 
 - 🖥️ **AI & Data Analytics (Internship)**\
-  🗓️ June 2024 - now \
+  🗓️ June 2024 - February 2025 \
   🏛️ **Capemini Spain**
 
 ## Skills
