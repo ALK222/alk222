@@ -4,6 +4,17 @@
 
 I'm a student interested in AI, video game development and, at a lesser extent, everything about computers, hardware and software development.
 
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/alejandro-barrachina-argudo-3904561b3/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://www.kaggle.com/alk222">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" />
+  </a>
+  
+</p>
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=alk222&theme=dracula&include_all_commits=true&count_private=true&hide_title=true" alt="Commit Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alk222&theme=dracula&hide=jupyter%20notebook&layout=compact" alt="Language Stats" />
