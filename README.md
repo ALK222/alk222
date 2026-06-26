@@ -31,6 +31,10 @@ I'm a student interested in AI, video game development and, at a lesser extent, 
   🏛️ **Universidad Complutense de Madrid**
 
 ## Experience
+- 🖥️ **AI & Data Analytics - Junior GenAI Engineer**\
+  🗓️ April 2026 - now \
+  🏛️ **Capemini Spain**
+
 
 - 🖥️ **AI & Data Analytics (Internship)**\
   🗓️ June 2024 - February 2025 \
